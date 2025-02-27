@@ -29,7 +29,7 @@ ai-travel-planner/
 
 1. Clone the repository:
    ```
-   git clone [https://github.com/yourusername/ai-travel-planner.git](https://github.com/Bushra-khanam-05/AI-Travel-Planner.git)
+   git clone https://github.com/Bushra-khanam-05/AI-Travel-Planner.git
    cd ai-travel-planner
    ```
 
